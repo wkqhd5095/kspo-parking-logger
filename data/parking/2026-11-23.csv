@@ -1,3 +1,4 @@
 fetched_at_utc,fetched_at_kst,parking_sum,http_status,latency_ms,attempt,error,raw
 2026-11-22T15:00:42Z,2026-11-23 00:00:42,1042,200,1399,1,,"[{""parking_sum"":1042}]"
 2026-11-22T15:05:19Z,2026-11-23 00:05:19,1044,200,1218,1,,"[{""parking_sum"":1044}]"
+2026-11-22T15:10:23Z,2026-11-23 00:10:23,1044,200,1024,1,,"[{""parking_sum"":1044}]"
