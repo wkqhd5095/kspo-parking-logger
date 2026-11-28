@@ -1,0 +1,2 @@
+fetched_at_utc,fetched_at_kst,parking_sum,http_status,latency_ms,attempt,error,raw
+2026-11-28T15:00:39Z,2026-11-29 00:00:39,1043,200,2045,1,,"[{""parking_sum"":1043}]"
